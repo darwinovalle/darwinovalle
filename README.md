@@ -52,12 +52,3 @@ When I'm not debugging or optimizing queries, you can find me:
 
 ---
 
-### 🚀 GitHub Stats
-<p align="center">
-<img width="450" align="left" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&line_height=21&theme=react" alt="Darwin's Github Stats" />
-<img width="340" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&langs_count=6&theme=react&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&color=blueviolet" alt="Profile Views" />
-</p>
