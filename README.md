@@ -10,7 +10,7 @@
 [![Email Badge](https://img.shields.io/badge/-Email-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:darwin-ovalle@hotmail.com)](mailto:darwin-ovalle@hotmail.com)
 ![Location](https://img.shields.io/badge/Colombia-🇨🇴-yellow?style=flat-square)
 
----
+
 
 
 ---
