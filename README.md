@@ -1,30 +1,63 @@
-# 👩‍💻 Darwin
+<img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
+<h1>Hola!, I am <a href="https://github.com/YOUR_GITHUB_USERNAME">Darwin</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 
-**`Backend Software Engineer | Django Specialist`**
+> **Software Engineer | Problem Solver | Coffee Enthusiast**
+> "I build backend systems that are as robust as they are elegant, with a focus on automation and developer experience."
 
-I design and build scalable backend systems focused on performance, clean architecture, and long-term maintainability.
-
-Currently exploring **Rust** to write faster and safer systems.
-
----
-
-### 🧠 Core Stack
-
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### 📬 Let's Connect
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/YOUR_GITHUB_USERNAME)](https://github.com/YOUR_GITHUB_USERNAME) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL)](YOUR_LINKEDIN_URL)
+[![Email Badge](https://img.shields.io/badge/-Email-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:darwin-ovalle@hotmail.com)](mailto:darwin-ovalle@hotmail.com)
+![Location](https://img.shields.io/badge/Colombia-🇨🇴-yellow?style=flat-square)
 
 ---
 
-### ⚙️ Currently Learning
+### 🪵 The Human Side of My Code
+I’m a **Software Engineer** based in Colombia. My approach to tech is simple: **Code is for humans, not just for machines.** I believe in building systems that are easy to understand and even easier to scale. 
 
-![Rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+While my roots are in the **Django** ecosystem, I’m a lifelong learner currently exploring the memory-safety and speed of **Rust**. I don't just "fix bugs"—I look for the root cause and build a bridge over it.
 
 ---
 
-### 📫 Contact
+## ⚡️ What I’m About
 
-- 📧 darwin-ovalle@hotmail.com
-- 🌎 Colombia
+- **Mindset:** I’m a "lazy" developer in the best way—if I have to do it twice, I automate it. I use **n8n**, **Bash**, and **Python** to reclaim time for creative problem-solving.
+- **Craftsmanship:** I treat code like a craft. Clean architecture isn't a luxury; it's a requirement for long-term project health.
+- **Collaboration:** I speak fluent "Frontend" (**React/Vue**) which helps me bridge the gap between API design and user experience.
+- **Current Focus:** Deep-diving into **Rust** and mastering **AWS** cloud orchestration.
+
+---
+
+### ⚙️ My Tech Toolbox
+
+**Languages & Frameworks**
+<br>
+<code><img height="40" src="https://skillicons.dev/icons?i=python,django,js,react,vue,rust,fastapi,flask" title="Main Stack"></code>
+
+**Data & Infrastructure**
+<br>
+<code><img height="40" src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite,aws,docker,linux" title="Data & Cloud"></code>
+
+**Tools & Automation**
+<br>
+<code><img height="40" src="https://skillicons.dev/icons?i=git,bash,neovim,postman,anaconda,githubactions" title="Tools"></code>
+
+---
+
+### 🏔️ Beyond the Keyboard
+When I'm not debugging or optimizing queries, you can find me:
+* ☕ Hunting for the perfect cup of Colombian coffee.
+* 🎧 Listening and producing electronic music.
+* 🏗️ Experimenting with home automation to make my life 1% more efficient every day.
+
+---
+
+### 🚀 GitHub Stats
+<p align="center">
+<img width="450" align="left" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&line_height=21&theme=react" alt="Darwin's Github Stats" />
+<img width="340" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&langs_count=6&theme=react&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&color=blueviolet" alt="Profile Views" />
+</p>
