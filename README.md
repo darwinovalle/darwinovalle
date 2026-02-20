@@ -12,10 +12,6 @@
 
 ---
 
-### 🪵 The Human Side of My Code
-I’m a **Software Engineer** based in Colombia. My approach to tech is simple: **Code is for humans, not just for machines.** I believe in building systems that are easy to understand and even easier to scale. 
-
-While my roots are in the **Django** ecosystem, I’m a lifelong learner currently exploring the memory-safety and speed of **Rust**. I don't just "fix bugs"—I look for the root cause and build a bridge over it.
 
 ---
 
