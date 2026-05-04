@@ -26,7 +26,7 @@
 
 **Languages & Frameworks**
 <br>
-<code><img height="40" src="https://skillicons.dev/icons?i=python,js, django,react,vue,fastapi,go" title="Main Stack"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=python,js,django,react,vue,fastapi,golang" title="Main Stack"></code>
 
 **Data & Infrastructure**
 <br>
