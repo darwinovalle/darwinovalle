@@ -5,8 +5,6 @@
 > "I build backend systems that are as robust as they are elegant, with a focus on automation and developer experience."
 
 ### 📬 Let's Connect
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/YOUR_GITHUB_USERNAME)](https://github.com/YOUR_GITHUB_USERNAME) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL)](YOUR_LINKEDIN_URL)
 [![Email Badge](https://img.shields.io/badge/-Email-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:darwin-ovalle@hotmail.com)](mailto:darwin-ovalle@hotmail.com)
 ![Location](https://img.shields.io/badge/Colombia-🇨🇴-yellow?style=flat-square)
 
