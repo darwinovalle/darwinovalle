@@ -26,15 +26,15 @@
 
 **Languages & Frameworks**
 <br>
-<code><img height="40" src="https://skillicons.dev/icons?i=python,django,js,react,vue,rust,fastapi,flask" title="Main Stack"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=python,js, django,react,vue,fastapi,go" title="Main Stack"></code>
 
 **Data & Infrastructure**
 <br>
-<code><img height="40" src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite,aws,docker,linux" title="Data & Cloud"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite,aws,docker,linux" title="Data & Cloud"></code>
 
 **Tools & Automation**
 <br>
-<code><img height="40" src="https://skillicons.dev/icons?i=git,bash,neovim,postman,anaconda,githubactions" title="Tools"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=git,bash,neovim,postman,anaconda" title="Tools"></code>
 
 ---
 
