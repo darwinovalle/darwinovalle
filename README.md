@@ -20,7 +20,6 @@
 
 ## ⚡️ What I’m About
 
-- **Mindset:** I’m a "lazy" developer in the best way—if I have to do it twice, I automate it. I use **n8n**, **Bash**, and **Python** to reclaim time for creative problem-solving.
 - **Craftsmanship:** I treat code like a craft. Clean architecture isn't a luxury; it's a requirement for long-term project health.
 - **Collaboration:** I speak fluent "Frontend" (**React/Vue**) which helps me bridge the gap between API design and user experience.
 - **Current Focus:** Deep-diving into **Rust** and mastering **AWS** cloud orchestration.
