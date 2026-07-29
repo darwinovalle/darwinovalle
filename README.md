@@ -59,11 +59,6 @@ When I'm not debugging or optimizing queries, you can find me:
 
 ## 📊 GitHub Analytics
 
-<!-- GitHub Streak -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=darwinovalle&theme=radical&hide_border=true" alt="GitHub Streak" height="170" />
-</div>
-
 <!-- Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=darwinovalle&bg_color=141321&color=A9FEF7&line=FE428E&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="90%" />
