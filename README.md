@@ -31,7 +31,7 @@ I build backend systems that are as robust as they are elegant, with a focus on 
 **Languages & Frameworks**
 <br>
 <br>
-<code><img height="80" src="https://skillicons.dev/icons?i=python,js,typescript,django,react,fastapi,golang" title="Main Stack"></code>
+<code><img height="80" src="https://skillicons.dev/icons?i=python,django,fastapi,js,typescript,nodejs,react,golang" title="Main Stack"></code>
 
 **Data & Infrastructure**
 <br>
