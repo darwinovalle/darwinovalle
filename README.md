@@ -46,19 +46,20 @@ I build backend systems that are as robust as they are elegant, with a focus on 
 
 
 ## 📊 GitHub Analytics
-
+  <!--
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=darwinovalle&bg_color=141321&color=A9FEF7&line=FE428E&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="90%" />
 </div>
+  -->
 
 <div align="center">
   
   [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darwinovalle&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-  <!--
+
   [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darwinovalle&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
   [![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darwinovalle&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-  -->
+
 </div>
 
 <div align="center">
