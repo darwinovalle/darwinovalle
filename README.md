@@ -46,16 +46,20 @@ I build backend systems that are as robust as they are elegant, with a focus on 
 
 
 ## 📊 GitHub Analytics
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=darwinovalle&background=141321&border=141321&stroke=141321&ring=FE428E&fire=A9FEF7&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A9FEF7&sideLabels=A9FEF7&dates=FFFFFF&hide_border=true"
+    alt="Darwin's GitHub Streak"
+    width="67%"
+  />
+</p>
+
+
+<div align="center">
   <!--
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darwinovalle&bg_color=141321&color=A9FEF7&line=FE428E&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="90%" />
-</div>
-  -->
-
-<div align="center">
-  
   [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darwinovalle&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
+  -->
 
   [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darwinovalle&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
   [![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darwinovalle&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
